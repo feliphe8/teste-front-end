@@ -1,0 +1,16 @@
+{
+  "name": "Teste-Frond-End",
+  "version": "1.0.0",
+  "description": "Teste front end usando gulp, sass e browser-sync",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Feliphe Simões",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
